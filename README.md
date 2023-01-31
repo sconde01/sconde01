@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm Stephanie! I'm currently a full-stack software engineer at Flatiron School. 
+
 
 <!--
 **sconde01/sconde01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
